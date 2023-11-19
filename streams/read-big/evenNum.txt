@@ -1,0 +1,1 @@
+run "node readBig.js" to write even numbers to this text file. 

@@ -1,0 +1,12 @@
+Write your commands here:
+- To create a file, use the syntax:
+create file <filename>
+
+- To delete a file, use the syntax:
+delete file <filename>
+
+-To append to a file, use the syntax:
+append to file <filename> this content <content to append>
+
+-To rename a file, use the syntax:
+rename file to <newFilename>
