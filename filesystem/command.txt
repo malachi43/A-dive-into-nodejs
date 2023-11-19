@@ -9,4 +9,4 @@ delete file <filename>
 append to file <filename> this content <content to append>
 
 -To rename a file, use the syntax:
-rename file to <newFilename>
+rename file <oldFilename> to <newFilename>
